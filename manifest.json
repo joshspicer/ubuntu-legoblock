@@ -1,3 +1,6 @@
 {
-  "flavor": "base"
+  "flavor": "base",
+  "extends_from": [
+    "debian"
+  ]
 }
